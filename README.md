@@ -99,6 +99,6 @@ https://user-images.githubusercontent.com/98414364/177853886-ce0f86fa-38b0-4294-
 
 <img width="848" src="Images/Log_Detail.png">
 
-##### recipient’s Account Balance
+##### Recipient’s Account Balance
 <img width="848" src="Images/Hired_Balance.png">
 
