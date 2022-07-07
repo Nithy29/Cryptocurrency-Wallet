@@ -45,15 +45,15 @@ The following steps are taken to complete this Challenge work:
 
 ##### Import generate_account, get_balance, and send_transaction from the crypto_wallet.py file. 
 
-<img width="638"  src="Images/image_1.png">
+<img width="640"  src="Images/image_1.png">
 
 ##### Call the generate_account function and store the account object. 
 
-<img width="641"  src="Images/image_2.png">
+<img width="640"  src="Images/image_2.png">
 
 ##### Call the get_balance function and pass it the Ethereum account.address. 
 
-<img width="540"  src="Images/image_3.png">
+<img width="640"  src="Images/image_3.png">
 
 
 
@@ -63,14 +63,14 @@ The following steps are taken to complete this Challenge work:
 
 ##### Calculate the transaction’s total wage. 
 
-<img width="649"  src="Images/image_4.png">
+<img width="640"  src="Images/image_4.png">
 
 ##### Call the send_transaction function and pass it the account, candidate_address, and wage parameters. 
-<img width="620"  src="Images/image_5.png">
+<img width="640"  src="Images/image_5.png">
 
 ##### Return the transaction hash from the send_transaction and display it on the application’s web interface. 
 
-<img width="327"  src="Images/image_6.png">
+<img width="600"  src="Images/image_6.png">
 
 
 
@@ -78,14 +78,12 @@ The following steps are taken to complete this Challenge work:
 
 ##### Send a transaction using the Fintech Finder app
 
-
-[Transaction](Images/transact.mov)
-
+https://user-images.githubusercontent.com/98414364/177853886-ce0f86fa-38b0-4294-bc54-aaab419e69c0.mov
 
 
 ##### Account Balance 
 
-<img width="1299"  src="Images/Client_Balance.png">
+<img width="848"  src="Images/Client_Balance.png">
 
 
 ##### Block Details 
@@ -95,12 +93,12 @@ The following steps are taken to complete this Challenge work:
 
 ##### Transaction Details 
 
-<img width="623"  src="Images/Transaction_Detail.pnd">
+<img width="848"  src="Images/Transaction_Detail.png">
 
 ##### Log detail
 
-<img width="1299" src="Images/Log_Detail.png">
+<img width="848" src="Images/Log_Detail.png">
 
 ##### Hired Person's Balance
-<img width="1299" src="Images/Hired_Balance.png">
+<img width="848" src="Images/Hired_Balance.png">
 
