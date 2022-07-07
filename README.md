@@ -81,7 +81,7 @@ The following steps are taken to complete this Challenge work:
 https://user-images.githubusercontent.com/98414364/177853886-ce0f86fa-38b0-4294-bc54-aaab419e69c0.mov
 
 
-##### Account Balance 
+##### Client Account Balance 
 
 <img width="848"  src="Images/Client_Balance.png">
 
@@ -99,6 +99,6 @@ https://user-images.githubusercontent.com/98414364/177853886-ce0f86fa-38b0-4294-
 
 <img width="848" src="Images/Log_Detail.png">
 
-##### Hired Person's Balance
+##### recipient’s Account Balance
 <img width="848" src="Images/Hired_Balance.png">
 
